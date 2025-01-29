@@ -21,6 +21,7 @@ This project predicts house prices using a **Stacking Regressor** model, combini
 
 ### Prerequisites
 - Python 3.9 or above
+- Jupyter Notebook
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Missingno, LazyPredict, Optuna, LightGBM, XGBoost, CatBoost.
 
 ### Step 1: Clone the repository
