@@ -3,7 +3,9 @@
 
 ## 🔍 Overview
 This project predicts house prices using a **Stacking Regressor** model, combining multiple base models like **Lasso**, **Ridge**, **GBM**, **LGBM**, **XGBoost**, and **CatBoost**. The model was optimized through **advanced feature engineering**, **hyperparameter tuning**, and **model evaluation**.
+<br>
 
+![Stacking Model Pipeline](Stacking-Pipeline.png)
 
 ## Features
 1. **Exploratory Data Analysis (EDA)**: Analyzed missing values, feature distributions, and correlations.
